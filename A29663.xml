@@ -1,0 +1,642 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon at the funeral of the Worshipful John Symonds, late of Great Yeldham in the county of Essex, Esq. preached in the parish-church of Great Yeldham aforesaid on the 24th of February, 1692, by John Brooke ... ; with a short account of his life.</title>
+            <author>Brooke, John, 1633 or 4-1716?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29663</idno>
+            <idno type="STC">Wing B4906</idno>
+            <idno type="STC">ESTC R12467</idno>
+            <idno type="EEBO-CITATION">13578080</idno>
+            <idno type="OCLC">ocm 13578080</idno>
+            <idno type="VID">100473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 837:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon at the funeral of the Worshipful John Symonds, late of Great Yeldham in the county of Essex, Esq. preached in the parish-church of Great Yeldham aforesaid on the 24th of February, 1692, by John Brooke ... ; with a short account of his life.</title>
+                  <author>Brooke, John, 1633 or 4-1716?</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Symonds, John, d. 1693?</term>
+               <term>Bible. --  N.T. --  Revelation XIV, 13 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100473:1" rendition="simple:additions"/>
+            <p>A SERMON AT THE FUNERAL Of the Worſhipful <hi>Iohn Symonds,</hi> Late of Great <hi>Yeldham</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Eſſex,</hi> Eſq.</p>
+            <p>Preached in the Pariſh-Church of Great <hi>Yeldham</hi> aforeſaid, on the 24th. of <hi>February,</hi> 1692.</p>
+            <p>By <hi>John Brooke,</hi> A. M. and Rector there.</p>
+            <p>With a ſhort Account of his Life.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>Guil. Lancaſter, R. P. D. Hen. Ep. Lond. a Sacris Domeſt.</signed> 
+                     <dateline>
+                        <date>May 25. 1693.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide,</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100473:2"/>
+            <pb facs="tcp:100473:2"/>
+            <head>To my Much Honoured &amp; very worthy Friend, M<hi rend="sup">ris</hi>. <hi>JANE SYMONDS,</hi> Widow, OF THE Worſhipful <hi>John Symonds,</hi> late of Great <hi>Yeldham</hi> in the County of <hi>Eſſex,</hi> Eſq.</head>
+            <opener>
+               <salute>Good Madam,</salute>
+            </opener>
+            <p>WE live in an Age wherein the Belief of a future ſtate, and of the happy condition of Good Men in the other World, is, (its to be feared) very weak and much decayed amongst many: and wherein the good Examples of ſuch as mind this Future Life, and live in order to it, are too rare and thin. I hope therefore that it will not be thought Unſea<g ref="char:EOLhyphen"/>ſonable by any at this time of day, to ſet forth a ſhort Diſcourſe to eſtabliſh us in the one, and to help us to a view of the other; and that is the principal deſigne of this SERMON: Which for the Substance of it was firſt Preached, and now upon Your Requeſt comes Forth with ſome Enlargements; which the ſtraitneſs of the time then allotted, would not permit me to inſiſt on:
+<pb facs="tcp:100473:3"/> Such as it is, it is wholly devoted to the Churches and to Your Service. And that it may be of uſe to ſupport You under your great Loſs, and to induce ſuch as ſhall Read it, to Believe what is here Aſſerted, and to Live thereafter, by Imitating the Good Example that is here given them, is, and ſhall be the hearty Prayer of</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>
+                  <hi>Your very humble and moſt devoted Servant,</hi> Jo. Brooke.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100473:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Text. REV. 14.13.</hi>
+                  </bibl>
+                  <p>And I heard a Voice from Heaven, ſaying unto me, Write, Bleſſed are the dead which die in the Lord, from henceforth; yea, ſaith the Spirit, that they may reſt from their Labours; and their Works fol<g ref="char:EOLhyphen"/>low them.</p>
+               </q>
+            </epigraph>
+            <p>THIS Book is ſtiled the Revelation of <hi>John</hi> the Di<g ref="char:EOLhyphen"/>vine, which hints to us both the Author and the Na<g ref="char:EOLhyphen"/>ture of the Book.</p>
+            <p n="1">1. The Author, <hi>viz.</hi> The Apoſtle and Evange<g ref="char:EOLhyphen"/>liſt St. <hi>John,</hi> that beloved diſciple of our Lord, who leaned on his boſome when he eat his laſt Supper, as we read, <hi>John</hi> 13.23. and he is ſtiled here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Divine, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by way of ſpecial emphaſis; becauſe like an Eagle (the uſual emblem that is given him) which ſoars higher than other Birds, and looks upon the rayes of the Sun with undazled eyes, (as the na<g ref="char:EOLhyphen"/>turaliſt obſerves) he ſoared aloft, and writ more ſublimely of the Son of Righteouſneſs, of the Divinity of Chriſt in this and in his other Books, than any other of the Evangeliſts did. <hi>Pareus</hi> tells us, that he finds no leſs than 48 Arguments for the divinity of Chriſt in this very Book; &amp; therefore well might he be ſtiled the Divine, ſince he writ ſo divinely of his Lord and Maſter.</p>
+            <p n="2">2. The Nature of the Book is ſhewed alſo by the Title, and ſo it is termed a Revelation; ſo called, becauſe it reveals and makes known, as many hidden myſteries, ſo many future events, which ſhould happen to, and befall the Churches of Chriſt in after Ages. <hi>The Revelation of Jeſus Chriſt, which God gave unto</hi> John, <hi>to ſhew unto his ſervants things that muſt ſhortly come to paſs,</hi> as you have it in <hi>Chap.</hi> 1. <hi>Ver.</hi> 1. 'Tis true indeed, this Revelation is not without a mixture of much intricacy and obſcurity: <hi>Tot habet Sacramenta, quot verba</hi> (ſaith St. <hi>Jerom); It hath almoſt as many Myſteries as words.</hi> The greateſt part of it is Prophetical, a
+<pb n="2" facs="tcp:100473:4"/> propheſy of future events of what ſhould happen in after Ages, 'till the end of the world: And all propheſies are difficult and hard to be underſtood 'till they are fulfilled; till the time comes, when the things foretold or propheſied of, take effect. Hence the wiſeſt and moſt learned of Divines have been very much puzled and gravel'd in their Explanations and Expoſitions of it: and after all their profoundeſt ſtudies, and moſt ſerious Enquiries, have confeſſed; That there are many knots here, which they could never unty; many depths which they could never yet dive into; many myſteries which they could never unfold: But as the greateſt Rivers, ſo the moſt myſterious Books of Scrip<g ref="char:EOLhyphen"/>ture run not in the ſame continued depth; though in ſome places they can ſcarce be ſounded, yet in other places they ſhew their bottoms.</p>
+            <p>And thus, even thus it is with this myſterious book of the <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>velations.</hi> In ſome places (as 'tis uſually obſerved of it) an Elephant may ſwim, in others a Lamb may wade: ſome things are laid down ſo myſtically in ſuch dark propheſies and abſtruſe Viſions, as that the judgment of the Wiſeſt may be much tried and exerciſed therein; yea, often over-power'd and nonpluſs'd: And ſome things are laid down ſo plainly and familiarly, as that the infirmities of the weakeſt may be much ſuccoured and aſſiſted. The one is done (as one obſerves) to prevent contempt, the o<g ref="char:EOLhyphen"/>ther to anticipate diſcouragement. Of the latter ſort is my Text; in which we have Two things conſiderable.</p>
+            <p n="1">1. A poſitive and plain aſſertion touching the happy eſtate of ſuch as die in the Lord; <hi>Bleſſed are the dead that die in the Lord, henceforth.</hi>
+            </p>
+            <p n="2">2. A ſtrong confirmation of this aſſertion in the remainder of the Text; <hi>I heard a Voice from Heaven, ſaying, Write; yea, ſaith the Spirit, that they may reſt from their Labours, and their Works f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llow them.</hi>
+            </p>
+            <p>I ſhall take theſe in their order, and accordingly begin with the firſt of theſe generals, <hi>viz.</hi>
+            </p>
+            <p n="1">1. The Aſſertion here laid down touching the happy eſtate of ſuch as die in the Lord: in theſe words of my Text, <hi>Bleſſed are the Dead that die in the Lord, henceforth.</hi> In which we have Two things further conſiderable.</p>
+            <p n="1">1. The ſubjects of this Bleſſedneſs, and they are ſaid to be <hi>The Dead that die in the Lord.</hi>
+            </p>
+            <p n="2">
+               <pb n="3" facs="tcp:100473:4"/>2. The time whence this Bleſſedneſs doth in a more eſpe<g ref="char:EOLhyphen"/>cial manner commence; <hi>Henceforth.</hi>
+            </p>
+            <p n="1">1. Then we have h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the ſubjects of this Bleſſedneſs, and they are ſaid to be <hi>The Dead that die in the Lord.</hi> 1. The Dead; to underſtand which, we muſt know, that there is a threefold Death; A corporal or natural death, which conſiſteth in the ſeparation of the ſoul from the body for a time; A ſpiritual death, which conſiſteth in the ſeparation of the ſoul from Gods gracious preſence, from his love and favour in this world; An eternal death, which conſiſteth in the ſeparation of the ſoul, and indeed of the whole man from Gods glorious preſence for ever in the other world. The firſt of theſe is here underſtood, <hi>the Dead;</hi> that is ſuch as are corporally dead, whoſe ſouls are ſeparated from their bodies for a time; not that all ſuch are bleſſed in the other world more by far of ſuch (it's to be feared) are rather miſerable there, than bleſſed: for <hi>ſtraight is the gate and narrow is the way, that leads to everlaſting life, and few there be that find it,</hi> as our Saviour tells us; few alas! in compariſon of thoſe that miſs of it: but <hi>that</hi> ſuch of thoſe dead are happy or bleſſed, <hi>that die in the Lord:</hi> which is the ſecond thing to be opened, <hi>viz.</hi> what it is to die in the Lord? And there is ſome variety amongſt Expoſitors about the interpretation of this phraſe: Some there are that tell us, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is put here for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; that <hi>to die in the Lord</hi> in this place, is to die <hi>propter Dominum,</hi> or <hi>Domini cauſa,</hi> for the Lord, or in the Lords cauſe; in defence of his Truth againſt Antichriſt, as the Holy Martyrs did; and they quote ſeveral parallel places of Scriptures (where the phraſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in the Lord,</hi> is to be ſo taken) to confirm what they ſay, as <hi>Rom.</hi> 16.12. and <hi>Epheſ.</hi> 4.1. and do moreover alledge the context, and the occaſion of theſe words for this ſence of them. Others there are, that take theſe words in their proper ſence, as not confined to the martyrs only, to ſuch as die for the cauſe of Chriſt, and do ſeal his Truth with their Blood; but as belonging to all that die in the faith and fear of the Lord: and ſo to die in the Lord with them, is to die in his faith and fear; in his love and favour as all good men do: and they do quote alſo ſeveral places of Scripture to confirm this ſence of theirs; where this phraze is ſo uſed; as <hi>Rom.</hi> 16.7. <hi>ſalute Andronicus and Junia which were in the Lord before me</hi> (ſaith St. <hi>Paul</hi>); that is, which were believers, which were in the faith before him: &amp; 1 <hi>Theſ.</hi> 4.14. <hi>If we believe that Jeſus died and
+<pb n="4" facs="tcp:100473:5"/> roſe again, even ſo them alſo which ſleep in Jeſus,</hi> i. e. which die in Jeſus, <hi>will God bring with him;</hi> and to mention no more places to this purpoſe, ſee <hi>Ver</hi> 16. of the ſame <hi>Chap. The Lord himſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf</hi> (ſaith the Apoſtle) <hi>ſhall deſcend from Heaven with a ſhout wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the voice of the Arch-Angel, and with the Trumpet of God, and the dead in Chriſt ſhall riſe firſt;</hi> the dead in Chriſt, i. e. thoſe that die in the faith of Chriſt; as all true believers do; intereſted in him, in his love and favour.</p>
+            <p>The words in my Text, may be taken, I humbly conceive, in both theſe Senſes; and though poſſibly, the firſt ſenſe given of them may be primarily intended in it, yet the ſecond is in no ſort to be excluded: for though the Martyrs, and ſuch as die for the truth and cauſe of Chriſt, may have the greateſt ſhare in this bleſſedneſs, as being moſt capacitated for it, and moſt deſerving of it; yet ſuch as die in the faith and fear of Chriſt, as all good men do; are bleſſed as well as they: and that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ab hoc tempore; henceforth,</hi> as we render the Original; which brings me to the ſecond thing obſervable in my firſt general, <hi>viz.</hi>
+            </p>
+            <p n="2">2. The circumſtance of time whence this bleſſedneſs doth in a more eſpecial manner commence, comprized in this word <hi>henceforth; Bleſſed are the dead that die in the Lord, henceforth.</hi> Not, but that the dead that died in the Lord were bleſſed before this time; alwaies bleſſed, and that too from the very firſt moment of their dying, whatever the Papiſts talk to the contrary in defence of their <hi>Purgatory,</hi> and <hi>Limbus Patrum;</hi> but that they were ſo now in an eſpecial manner, when this Book (I mean of the Revelations) was written; in that they would by this means, be as it were houſed and ſecured from that ſevere ſtorm of perſecution; which then hung over the Church of Chriſt, and which was to be raiſed by the Beaſt and Anti<g ref="char:EOLhyphen"/>chriſt againſt the ſaints and ſervants of God; but ſo much ſhall ſuffice for the explication of the firſt thing obſervable in my Text; the Aſſertion here laid down touching the happy eſtate and condition of ſuch as die in the Lord, in theſe words of it; <hi>bleſſed are the dead that die in the Lord, henceforth.</hi> I come now to the Second general, <hi>viz.</hi>
+            </p>
+            <p n="2">2. To the Confirmation of this Aſſertion in the remainder of my Text, and we have it confirmed to us Three wayes.</p>
+            <list>
+               <pb n="5" facs="tcp:100473:5"/>
+               <item>1. By a voice from Heaven; <hi>I heard a voice from Heaven, ſaying unto me, Write, Bleſſed are the Dead,</hi> &amp;c.</item>
+               <item>2. By the Teſtimony of the Holy Spirit upon the earth, <hi>Yea, ſaith the Spirit.</hi>
+               </item>
+               <item>3. By the reaſon of the thing, or the ends that are given here why good men die; <hi>That they may reſt from their Labours, and that their Works may follow them.</hi>
+               </item>
+            </list>
+            <p n="1">1. Then we have this aſsertion here confirmed by a voice from Heaven; <hi>I heard a voice from Heaven ſaying unto me, write, Bleſſed are the dead that die in the Lord, henceforth.</hi> We read in the Scriptures, of ſeveral Voices that have been heard from Heaven to confirm us in the Principles of our Religion, and in the Articles of our Creed.</p>
+            <p>
+               <hi>The voice</hi> heard from Heaven by St. <hi>John</hi> in my Text, was to Confirm him and us, in the laſt Article of our Creed, touching the Happineſs of the dead, and the glorious eſtate of the triumphant Church in the life to come: and what greater confirmation can we deſire to eſtabliſh us in any truth, than a voice from Heaven? ſince a voice from Heaven tells us, that the dead that die in the Lord are bleſſed; we have no reaſon in the world to doubt of it. For who can know, who are in Heaven, and what is the eſtate and condition of thoſe that are there, better than thoſe that are in Heaven, or have come from thence, as this voice did? we have no better way to know what is done in <hi>China,</hi> or in the <hi>Eaſt-indies;</hi> or how happy the In<g ref="char:EOLhyphen"/>habitants of thoſe Countreys are; Than by talking with one that hath been in thoſe parts, or is come from thence: we have no better way to know what is done in Heaven, and how happy they are that are got thither; than by talking with, and hearing of thoſe that live there, or have come from thence: and therfore I ſay, ſince the bleſſedneſs of thoſe that die in the Lord hath been confirmed to us by a voice from Heaven, we have all the reaſon in the world to believe it. But then,</p>
+            <p n="2">2. We have this truth confirmed to us, as by a voice from heaven; ſo alſo by the teſtimony of the holy ſpirit upon earth: <hi>I heard a voice from heaven ſaying unto me, bleſſed are the dead that dye in the Lord, henceforth;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>yea, ſaith the Spirit,</hi> viz. the Divine Spirit, or the Holy Ghoſt (as the word Spirit doth often import in this Book, and in other Books of the ſacred Scriptures): as if the voice, or he that uttered the voice, had ſaid
+<pb n="6" facs="tcp:100473:6"/> to St. <hi>John;</hi> 'tis not only I, who am, but poſſibly an Angel, a fellow-creature of thine, a bare meſſenger ſent from Heaven to tell thee, this; that ſay ſo: but the divine Spirit, the Holy Ghoſt himſelf, who is equal with God the Father, ſaith ſo; and that not only in multitudes of places in the Scriptures, but in the hearts and conſciences of all good men, of all true believers: This Holy Spirit ſaith <hi>yea;</hi> to what I have ſaid, gives his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>his Amen, or v<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> and hath commanded me to tell thee as much; and ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore thou haſt reaſon to believe it: For what he ſaith and declares, is, as he ſaith it is, and as he declares it to be; and whatever he promiſeth or threatneth ſhall accor<g ref="char:EOLhyphen"/>dingly in time he performed and made good. He is, (as we are told) a Spirit of Truth, a faithful Witneſs, <hi>one that cannot lye,</hi> as the Apoſtle expreſly tells us, <hi>Tit.</hi> 1, 2. his word ſhall be made good to a tittle. <hi>Heaven and earth ſhall paſs away but not one</hi> Iota, <hi>not the leaſt tittle of what he hath ſaid ſhall go unfulfilled;</hi> as our Saviour aſſureth us, <hi>Mat.</hi> 5.18. <hi>He is not a man, that he ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld lye, neither the Son of man, that he ſhould repent: hath he ſaid it, and ſhall it not be made good?</hi> ſaid Balaam, <hi>Numb.</hi> 23.19. the ſons of men indeed are often lyars; <hi>men of low de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ree</hi> (ſaith the Pſal<g ref="char:EOLhyphen"/>miſt) <hi>are vanity, and men of high degree are a lye, Pſa.</hi> 62.9. they will ſay and unſay many times with the ſame breath: we have no ſure hold of their word, no ſure ground to build upon their aſſertions; but it is not ſo with the Spirit of God: we may ſafely build upon his word: <hi>'tis imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſible that he ſhould lye or deceive any,</hi> as the Apoſtle tells us, <hi>Heb.</hi> 6.18. Truth is of his very nature and eſſence, and he may as ſoon ceaſe to be, as ceaſe to be true: but that is the ſecond ground given in my Text, why we ſhould believe, that ſuch as die in the Lord are Bleſſed, becauſe the Holy Spirit hath affirmed it, and gives his yea to it; <hi>Bleſſed are the dead that die in the Lord, yea, ſaith the Spirit.</hi> But then,</p>
+            <p n="3">3. As the Spirit ſaith ſo, as it is evident and clear from what the Spirit tells us in the Holy Scriptures and in the hearts and conſciences of all good men; ſo the <hi>Ratio rei,</hi> the reaſon of the thing ſpeaks as much; or it is evident that it muſt be ſo from reaſon it ſelf: I might name many, but I ſhall content my ſelf at preſent with what we have in my Text: and we have Two here given for it: The dead that die in the Lord muſt needs be Bleſſed. For
+<list>
+                  <pb n="7" facs="tcp:100473:6"/>
+                  <item>1. They reſt then from their labours. And</item>
+                  <item>2. Their works will follow them.</item>
+               </list>
+            </p>
+            <p n="1">1. Then, if we conſult Reaſon, Good Men, ſuch as die in the Lord, will be bleſſed after death: For then they will reſt from their labours; they will then be at their reſt; <hi>there the wicked ceaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from trouble and the weary be at reſt</hi> ſaith <hi>Job,</hi> ſpeaking of the grave or the other world, <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 14.13. <hi>There remaines a reſt for t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God,</hi> ſaith the Apoſtle <hi>Heb.</hi> 4 9. And ſuch as die in the Lord are ſaid <hi>to reſt or ſleep in Jeſus,</hi> 1 <hi>Theſ.</hi> 4.14. <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ter <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to peace, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhall reſt in their beds,</hi> ſaith the Prophet, ſpeak<g ref="char:EOLhyphen"/>ing of righteous men that are taken away from the evil to come, <hi>Iſa.</hi> 57.1. Look what a bed of reſt or ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep is to the weary labourer; ſuch is Death to good men; their dying day is their reſting day, they ſhall then reſt from their labours. Not neither; (for I would not be miſtaking here) that the ſouls of good men after death, are without all motion or operation, till the Reſur<g ref="char:EOLhyphen"/>rection of their bodies: not that they turn ſleepers till then (as ſome have im<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gined) not that they doſe away all their time, or indeed any of it, from the laſt breath or gaſp that the body takes, to the blowing of the laſt trumpet, as ſome do fondly dream. For the ſoul is of ſuch a nature, as that it can no more be and not act, than the wind can be and not blow, than the fire can be and not burn, than the ſun can be and not ſhine: its very nature and eſſence conſiſteth in alwayes thinking, in conſtant cogitation, as ſome both of the old and new Philoſophers tell us. <hi>They reſt not day and night, ſaying, holy, holy, holy, Lord God Almighty; which was, which is, and which is to come,</hi> ſaith St. <hi>Jo n</hi> of the four and twenty elders, and ſo of the ſouls of juſt men made perfect; <hi>Revel.</hi> 4.8. The reſting of the ſoul then is not a cealing or a reſt from all kind of motion or operation; But a reſt, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; as 'tis phrazed in my Text: that is, a reſt from all thoſe toilſome labours and troubleſome pains wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h they are forced to undergoe, whilſt here in the body <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth in the purſuit of their particular callings as men, and in the purſuit of their general callings as Chriſtians. They reſt from all toilſome labour, with reference to both of theſe, and that too, both with reference to all ſinning and ſuffering in either of them: To mention no more,</p>
+            <p n="1">1. The Souls of good men which die in the Lord, reſt from all their labours, with reſpect to ſinning; their death puts a pe<g ref="char:EOLhyphen"/>riod, and an end to all their ſinning, in both; the iſſue of ſin ſhall
+<pb n="8" facs="tcp:100473:7"/> then be quite dryed up, ſhall run no longer. Here the heart of a Chriſtian is like <hi>Rebekahs</hi> womb; it hath, as it were, twins ſtrug<g ref="char:EOLhyphen"/>ling in it; the old man and the new, fleſh and ſpirit; the law in the members warring againſt the law of the mind: <hi>The fleſh luſt<g ref="char:EOLhyphen"/>ing againſt the Spirit, and the Spirit againſt the fleſh; and theſe are contrary one to the other,</hi> as the Apoſtle tells us, <hi>Gal.</hi> 5.17. and by means of this contrariety, there is a great conflict many times, much ſtrugling and ſtriving; much labour and trouble in the heart of a Chriſtian: So that <hi>the good which he would do, he doth not; and the evil which he w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld not do, that many times doth he,</hi> as the Apoſtle phrazeth it in his own perſon, <hi>Rom.</hi> 7.22. his very life, by means of this, is like a Book fraught full of Errata's; <hi>who knows the Errours of this Life</hi> (ſaith <hi>David) there is not a juſt Man upon earth, that doth good at all times, and ſinneth not</hi> (ſaith Solomon) <hi>Eccleſ.</hi> 7.20. <hi>If any man ſaith he hath no ſin, he deceiveth himſelf, and the truth is not in him,</hi> ſaith St. <hi>John,</hi> 1 Jo. 1.8. <hi>And in many things we offend all,</hi> ſaith St. <hi>James,</hi> Jam. 2.3. <hi>Our very righteouſneſs is but as filthy rags,</hi> as the Prophet tells us, <hi>Iſa.</hi> 6.4. Our beſt graces (ſaith one) are not without their defects. <hi>Lord I believe, help mine unbelief,</hi> cryes he in the Goſpel, <hi>Mark</hi> 9.24. Our beſt duties not without their defaults; <hi>When I would do good, evil is preſent with me,</hi> ſaith the Apoſtle, <hi>Rom.</hi> 7.21. The pureſt fire we know hath ſome ſmoak, the richeſt wines ſome dregs. Sin, in ſhort, will have a being and dwelling in the beſt of Gods people here; but when once the Souls of good men are diſlodged, and have taken their flight from their Bodies, this incroaching inmate (as one terms ſin) ſhall be turned out of doors, ſhall never have ſo much as any being or exiſtence any longer in them; ſhall never more give them any further labour or trouble: The death of a Believers body ſhall perfectly deliver him <hi>from this body of Death,</hi> as the Apoſtle calls ſin, <hi>Rom.</hi> 7.23. <hi>Chriſt will preſent unto himſelf</hi> in the other world, <hi>a glorious Church, not having ſpot or wrinkle, or any ſuch thing; but that it ſhall be holy and without blemiſh,</hi> as the Apoſtle aſſureth us, <hi>Epheſs.</hi> 5.27. And hence the ſouls of juſt men, when once got thither, are ſaid to be perfect, <hi>Heb.</hi> 12.23. and death is call'd by one, <hi>Peccato<g ref="char:EOLhyphen"/>rum ſepultura, the burial or grave of ſin;</hi> and that is one thing that ſpeaks out the happineſs of thoſe that dye in the Lord; they ſhall then be at reſt from the labour of ſinning; which is of all labours and troubles the worſt and greateſt, the moſt afflictive to a good man; whence the <hi>Grecians</hi> in their Language,
+<pb n="9" facs="tcp:100473:7"/> term a wicked man, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from a word which ſignifieth with them labour and pains: To denote, as the la<g ref="char:EOLhyphen"/>bour and pains that wicked men are at many times to accom<g ref="char:EOLhyphen"/>pliſh their wicked deſigns; <hi>for they reſt not except they have done miſchief, and their ſleep is taken from them unleſs they cauſe ſome to fall,</hi> as <hi>Solomon</hi> tells us, <hi>Prov.</hi> 4.16. ſo poſſibly to de<g ref="char:EOLhyphen"/>note that labour and trouble which ſin and the remainders of it, give to good men in this life. Well, from this labour, from this trouble they ſhall be perfectly freed and delivered in the other life; they ſhall be at reſt then from the labour and ſorrow of ſinning any more: Yea, I may add here as a ſupplement to this Head, <hi>the dead that dye in the Lord,</hi> are not only at reſt from ſinning, but from all ſuggeſtions and temptations to it; there will be an end put then to all Satans temptations, as well as to our ſinning: He is very buſie here in ſuggeſting of bad things to the minds of good men; he is dayly dogging them and di<g ref="char:EOLhyphen"/>ſturbing them in every thing they go about; he buffetted St. <hi>Paul,</hi> we read, he deſired to winnow St. <hi>Peter,</hi> he ſtirr'd up <hi>David</hi> to number the People, and whiles <hi>Joſhua</hi> was miniſtring unto the Lord, <hi>he was at his right hand to reſiſt him,</hi> as we are told, <hi>Zach.</hi> 13.1. and it's no ſmall unhappineſs to us, that we are thus continually followed and haunted with ſuch an ill Ghoſt; yea, but now Death will deliver ſuch as dye in the Lord, from this trouble alſo: It will ſet them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, out of the reach of his batteries and gun-ſhot; though his darts be all fiery darts, and ſo its likely he is able to fling them high, (as one ſaith) yet not high enough to reach the Saints in glory. The Saints on earth indeed are in a Militant Condition, part of Gods Mi<g ref="char:EOLhyphen"/>litant Church, dayly ſighting with him, and he with them; but the Saints in Heaven are in a Triumphant Condition, Members of the Triumphant Church, wholly above him, <hi>and more than Conquerours over him, and over all their other enemies thro' Chriſt that loved them,</hi> as the Apoſtle aſſures us, <hi>Rom.</hi> 8.37. His walk is indeed to go to and fro on the earth, as he told God himſelf, <hi>Job.</hi> 1.7. but he can't enter the Confines of Heaven. When he fell from his integrity, he was turned out of that place of felicity, and ſhall never be reſtored to it again; <hi>This great Accuſer of the Brethren is caſt down, neither ſhall his place be found any more in Heaven,</hi> as we are aſſur'd, <hi>Rev.</hi> 12.8. this ſpiritual <hi>Pharoth</hi> (as one terms him) may purſue good men to the hour of their death; and it may be, may then moſt fierce<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:100473:8"/> too aſſault them, may muſter up all his forces in <hi>Battle-array</hi> againſt them; but at death it may be confidently ſaid unto them in reſpect of Satan, what <hi>Moſes</hi> ſaid once to the Children of <hi>Iſra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> in reſpect of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gyptians, Exod.</hi> 14.13. (with which I ſhall conclude this particular) <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar ye not, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly ſtand ſtill and ſee the ſalvation of the Lord, whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h he will work for you to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y; for the</hi> Aegyptians <hi>which ye have ſeen to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, ye ſhall ſee them no mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forever.</hi>
+            </p>
+            <p n="2">2. Such as dye in the Lord ſhall be at reſt, as from the la<g ref="char:EOLhyphen"/>bour of ſinning, and of all temptations to it, ſo alſo from their labours in reſpect of ſuffering; their death will put an end to all thoſe ſorrows and ſufferings, to which, by reaſon of ſin they are here expoſed. <hi>God will then wipe all tears from his peoples eyes, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere ſhall be no more ſorrow, nor crying, neither ſhall there be any more pain, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmer things are paſſed away,</hi> Re<g ref="char:EOLhyphen"/>vel. 21.4. and this indeed followeth upon the former; for, <hi>ſublata causâ tollitur eff ctus, remove the cauſe and the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff cts will ce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe;</hi> dry up the fountain and the ſtreams will not run: Sin, the cauſe of ſorrow and ſuffering being removed, as you have heard, then it will be; ſorrow and ſuffering the effects of ſin, muſt needs then ceaſe Now if need be, (ſaith the Apoſtle) <hi>ye are in heavineſs,</hi> 1 Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1.6. now men have ſtrong corrup<g ref="char:EOLhyphen"/>tions, and therefore need ſtrong corrections: Now there is Chaff mingled with our Wheat, and therefore there is need of Gods Fan to ſeparate it; Droſs with our Gold, and there<g ref="char:EOLhyphen"/>fore need of his Fire to refine it: Now his Rod and Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ments are very neceſſary to teach us out of Gods Law, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Pſalmiſt tells us, <hi>Pſal.</hi> 89.32. but at De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scholar in Chriſts School will have perfectly learn'd his Leſſon<g ref="char:punc">▪</g> and here<g ref="char:EOLhyphen"/>fore there will be no further need of corre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion. Thus De th will ſet good men at reſt from the labour of ſuffering, as well as of ſinning; yea, and that both with reference to their bodies, and with reference to their ſouls, that I may en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arge a little here.</p>
+            <p n="1">1. Death will ſet good Men at reſt from all Sufferings with re<g ref="char:EOLhyphen"/>ſpect to their Bodies: Many and G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat are the Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rings which good Men meet with here, by reaſon of their crazy &amp; in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irm Bo<g ref="char:EOLhyphen"/>dies, by reaſon of the gre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t variety of Diſea es that are inc dent in this Life to them; (to mention now none of thoſe other ſuffe<g ref="char:EOLhyphen"/>rings which ſome have been forced to undergo, by reaſon of the
+<pb n="11" facs="tcp:100473:8"/> Racks and Wheels of Perſecutors) <hi>Jo</hi> had, we know, his Botches, <hi>Hezekiah</hi> his Boyl, <hi>David</hi> his Sores, the poor Widow of the Goſpel her Iſſue of Blood. One Man waſteth away with a Con<g ref="char:EOLhyphen"/>ſumption till all his Moiſture is Exhauſted, another is Burnt up with a Feaver, a third is as it were Drowned with a Dropſy: In one, <hi>the k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eepers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Houſe</hi> (that I may Allude to that Elegant Allegory of <hi>Solomon, Ecl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.</hi> 12.) <hi>Tremble; in another the ſound of the Grinders is brought low;</hi> in a third, <hi>thoſe that look out at the Windows are darkned;</hi> in a fourth, <hi>the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughters <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Muſick are brought down.</hi> Phyſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cians tell us of hundreds of diſeaſes at leaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that are thus Incident to Mans Body; and by reaſon of theſe, he ſpends his Days many times in Pain, and his Nights in Sorrow. But here is the comfort of good Men, death will be a remedy a<g ref="char:EOLhyphen"/>gainſt them all: It will deliver them, or ſet them at reſt from them all; there ſhall be ſaith St. <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> Speaking of the New <hi>Jeru<g ref="char:EOLhyphen"/>ſalem, no more Death, nor any more Pain, R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vel.</hi> 21.4. As the Blind Martyr told the Lame, when they met at the Stake; <hi>y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> may throw away your Crutches now,</hi> if you pleaſe, <hi>D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e us both; you of your Lameneſs, and me of my Blindneſs.</hi> The great Phyſician of Souls, the Lord Jeſus Chriſt, will by Death, cure all the Diſeaſes, and remove all pains from good Mens Bodies; And conſequentially, they ſhall then be at reſt from all ſufferings with reſpect to the Body.</p>
+            <p n="2">2. They ſhall be at reſt too then from all ſufferings, with re<g ref="char:EOLhyphen"/>ſpect to the Soul. Many and Sore are the ſorrows and troubles of a Chriſtian in this Life, in this reſpect alſo: Sometimes the Afflictions of the good ſet him on weeping; <hi>By the Rivers of</hi> Baby<g ref="char:EOLhyphen"/>lon <hi>we ſate down and Wept; when we remembred</hi> Zion, <hi>Pſ.</hi> 137.1. <hi>viz.</hi> The Afflictions and Deſolations of <hi>Zion</hi> and of Gods People, that had once lived there: Sometimes the Tranſgreſſions of the wicked fetch tears from his Eyes. <hi>Rivers of Waters run down my Cheeks</hi> (Saith David) <hi>becauſe wicked Men keep not thy Laws. Pſ.</hi> 119.136. Sometimes the Senſe of his own corruptions ſtabs him, as it were, at the very Heart. <hi>When they heard this; they were pricked in their Heart: And ſaid unto</hi> Peter, <hi>and to the rest of the Apoſtles; Men and Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ren, what ſhall we do? Acts</hi> 2.37. <hi>And, O Wr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tched Man that I am, cries St.</hi> Paul, <hi>who ſhall deliver me from the Body of this Death?</hi> Rom. 7.24. Some<g ref="char:EOLhyphen"/>times God hides his Face and he is troubled; <hi>thou hidest thy face and I am troubled. Pſ.</hi> 30.7. <hi>And Tears have been my Meat
+<pb n="12" facs="tcp:100473:9"/> Day and Night; whiles they continually ſay unto me, where is thy God?</hi> ſaith he, <hi>Pſ.</hi> 42.3. Thus the <hi>Chriſtians</hi> whole Life, here many times is as it were a field of Sorrows; but now Death will ſet him at reſt from them all: It will be the Funeral of all his ſor<g ref="char:EOLhyphen"/>rows, and the reſurrection of all his joys. The Day of Death is the good Man's Marriage-day, and at that Marriage day of his, Chriſt will turn again, (as one Expreſſeth it) all his Water into Wine, all his Sighing into Singing, all his Mourning into Mirth. <hi>Then indeed ſhall the ranſomed of the Lord return and come to the Heavenly</hi> Zion, <hi>with Songs and Everlaſting Joy upon their Heads: They ſhall obtain Joy, and Gladneſs, and all Sorrow and Sighing-ſhall flee away,</hi> that I may Allude to, and Conclude this particular in the Prophets words, <hi>Iſa.</hi> 35.6. But that is the firſt reaſon that is given in my Text, why the dead that dye in the Lord are Bleſſed? Becauſe they dye, that they may reſt from their Labours. And that both in reſpect of all further ſinning, and all further ſuffering: I come now to the ſecond, that is here given us why they are Bleſſed: and that is,</p>
+            <p n="2">2. Becauſe their works ſhall follow them; their works, <hi>i. e.</hi> the good fruits and good e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fects of their works, or rather the re<g ref="char:EOLhyphen"/>ward of them: the great reward, that God will then give them, though not for, yet according to their good works, and this is and will be indeed very great; ſo great as that no mortal can de<g ref="char:EOLhyphen"/>clare the greatneſs of it: <hi>for Eye hath n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſeen nor ear heard, neither did it ever yet enter into the heart of man to conceive, what great thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s God hath prepared for them that love him,</hi> As the Apoſtle tells us, 1 <hi>Cor.</hi> 2.9. The Eye of man hath ſeen wonderful things in nature, and the Ear poſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly hath heard of more, and as for the heart or mind of man, what almoſt can't that conceive? And yet it can no way conceive the greatneſs of the glory which God hath prepared and laid up in the other world, for thoſe that love and fear him in this; and yet that hath been and will be ſtill done by all that have love, &amp; ſhall die in the Lord, &amp; therefore all that die in him are and ſhall be bleſſed. 'Tis true indeed, this bleſſedneſs (that I may prevent all miſtakes) will not, 1. Be given out to all a<g ref="char:EOLhyphen"/>like; as there are different degrees of grace upon Earth; ſo there will be different degrees of glory in Heaven. <hi>There is o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e glory of the Sun, another glory of the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, another glory of the Stars; for one Star differs from anot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, i. e.</hi> ſhines more gloriouſly than another, <hi>ſo alſo ſhall it be</hi> (ſaith he) <hi>in the reſurrection of the
+<pb n="13" facs="tcp:100473:9"/> dead,</hi> 1 Cor. 15.41, 42. <hi>And they that be wiſe ſaith</hi> Daniel, (ſpea<g ref="char:EOLhyphen"/>king of the ſame thing) <hi>ſhall ſhine as the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mament, and they that turn many unto righte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs as the Stars for ever and ev r, Dan.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.3. Now there are we know different degrees betwixt the light of the firmament and the light of the St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, and ſo there will be be<g ref="char:EOLhyphen"/>twixt the glory of one Saint and the glory of another in the fu<g ref="char:EOLhyphen"/>ture life? 'Tis true indeed, all good Men when once got to Hea<g ref="char:EOLhyphen"/>ven, ſhall have glory enough. He that hath the leaſt glory there, ſhall have enough to make him unſpeakably and unconceivably happy; every Veſſel of glory ſhall be full, but ſome ſhall have more of it, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n others; as being more capacitated to receive it. God will then and there <hi>reward every m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n accord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to his w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rks,</hi> as the Scriptures do abundantly, aſſure us. Now look as there are diverſities of gifts and graces amongſt Gods people here upon Earth, ſo there are of works; ſome do and ſuffer more for God, others leſs, and therefore ſome ſhall have more glory, others leſs; becauſe every mans glory ſhall be proportion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted according to his works; ſince mens labours are different in this world, their reward and glory will be different alſo in the world to come. This hap<g ref="char:EOLhyphen"/>pineſs therefore (I ſay) will not be given out for degrees alike to all.</p>
+            <p n="2">2. Nor ſecondly, will it be conſummated or compleated to any till the laſt day; till the general day of Judgment, when their bodies ſhall riſe again &amp; be reunited to their Souls, though good men ſuch as die in the Lord are immediately admitted to happineſs after their death: yet not to all that happineſs, that God intends, &amp; hath deſigned for them in the other world; this is indeed reſerved for that great and general day of Judgment ſo often menti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned in the Holy Scriptures, when Chriſt to whom the Judgment of the world is committed ſhall come in the glory of his Father with his Holy Angels to render to every man fully according to his works, as you have it, <hi>Mat.</hi> 16 27. But in the interim, and as ſoon as they die<g ref="char:punc">▪</g> they ſhall reſt from their labours and their works ſhall follow them; &amp; therefore they are and muſt needs be thenceforth bleſſed. Yea, that I may deſcend to, and inſtance in a few particulars here, ſuch as die in the Lord muſt needs be truly, though not compleatly, bleſſed and happy immediately after death; for they ſhall then be bleſſed <hi>with perfection in reſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct of their S uls; with the comforta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le ſoci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of the bleſſed Angels and Souls of juſt men made perfect;</hi> and
+<pb n="14" facs="tcp:100473:10"/> which is more ſtill than all theſe; <hi>with a clearer, more immediate and never more to be interrupted enjoyment of God and Chriſt.</hi>
+            </p>
+            <p n="1">1. Such as die in the Lord will be immediately after death bleſſed with perfection in reſpect of their own Souls; their Souls ſhall be then no longer clog'd down with their bodies. But ſhall be elevated and exalted to their juſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to the higheſt pitch of perfection, that they are in their ſeparated Eſtate capable of, and that in all the powers and faculties of them; as to inſtance, and but to inſtance in them,</p>
+            <p n="1">1. Their underſtandings ſhall be then extraordinarily enlarged and enlightned to ſee into thoſe myſteries of nature and divinity, which are now hid from them. <hi>Now I ſee ſaith</hi> the Apoſtle <hi>through a glaſs darkly, but then face to face; now I know but in part, but then I ſhall know even as alſo I am known,</hi> 1 Cor. 13.12. The good mans underſtanding ſhall then be nevermore deceived or miſtaken; ſhall never more be troubled with miſconceivings or miſappre<g ref="char:EOLhyphen"/>henſions, all thoſe miſts of ignorance and errour, which do now ſo much cloud his mind, ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then be ſcattered and blown over: all thoſe groundleſs fears and ſcruples which by reaſon of the weak<g ref="char:EOLhyphen"/>neſs of our underſtandings, and the imperfection of our know<g ref="char:EOLhyphen"/>ledge, do now ſo rack and gravel tender hearts, ſhall then be laid aſide, &amp; for ever abandoned; all thoſe laborious ſtudies, contro<g ref="char:EOLhyphen"/>verted problems and polemical diſputes, which do now ſteal a<g ref="char:EOLhyphen"/>way ſo much of our time, &amp; all to ſo litle purpoſe, ſhall then have their final deciſion and full determination; and the meaneſt un<g ref="char:EOLhyphen"/>derſtanding of them that are dead in the Lord, ſhall then proba<g ref="char:EOLhyphen"/>bly be able to confute the now ignorant ſentiments of the lear<g ref="char:EOLhyphen"/>nedeſt Scholars. And as their underſtandings, ſo,</p>
+            <p n="2">2. Their wills ſhall be then Perfected with a perfect and indefective Holineſs; with an exact conformity to the divine will, and with a perfect freedom from all ſervitude to ſin; they ſhall then be no more troubled with doubtful choiſe, but with a perfect freedom, ſhall ſteadily embrace the chiefeſt good, and ſhall find it too as eaſie to do good, as to will and deſire it, as one expreſſeth it. And as their wills, ſo</p>
+            <p n="3">3. Their affections too ſhall be then all compoſed and placed aright, and that too by an unalterable regularity; in which too they ſhall receive the greateſt content and ſatisfaction. All thoſe furious waves, which do now many times rage in Mens hearts, by
+<pb n="15" facs="tcp:100473:10"/> reaſon of the turbulency of their paſſions and affections: and do make them too too often, like the Seas, to foam forth their own ſhame; ſhall then be reduced to an Everlaſting calm. Ye, all thoſe peeviſh paſſions and brutiſh affections, which do now ſo of<g ref="char:EOLhyphen"/>ten dethrone Judgment &amp; Conſcience in Mens hearts, and ſet the whole world as it were on a ſire; ſhall then be for ever caſhiered and abandoned. And we ſhall love, fear, deſire, delight and rejoyce in nothing, but what is good. And as their affections, ſo,</p>
+            <p n="4">4. Their memories alſo ſhall not then be idle or uſeleſs, but they ſhall perfectly remember the miſeries that they were in; the rock, and ſhelves, the dangers that they have eſcaped; as like<g ref="char:EOLhyphen"/>wiſe the mercies and good things which they met with here on Earth, and all to inhance and heighten the worth of their Happi<g ref="char:EOLhyphen"/>neſs and preſent enjoyments in Heaven. Thus,</p>
+            <p n="1">1. Such as die in the Lord are immediately after Death bleſſed: for they ſhall then be bleſſed with all that perfection, which the nature of the Soul will admit of in its ſeparate Eſtate.</p>
+            <p n="2">2. They are Bleſſed, for they ſhall then be bleſſed too with the happy Society of the bleſſed Angels, and of the Souls of juſt Men made perfect; <hi>ye are come,</hi> ſaith the Apoſtle, <hi>Heb.</hi> 12.22, 23. (ſpeaking indeed of the members of his militant Church in the dayes of the Goſpel upon Earth, and therefore its much truer of the members of his Triumphant Church in Heaven) <hi>unto Mount Sion, and unto the City of the living God, the Hea<g ref="char:EOLhyphen"/>venly Jeruſalem, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to an innumerable company of Angels; to the general Aſſembly and Church of the firſt-born which are written in Heaven; and to God the Judge of all, and to the Spirits of juſt Men made perfect; and to Jeſus the Mediator of the n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w Covenant.</hi>
+            </p>
+            <p n="1">1. Then ſuch as die in the Lord ſhall after their death be im<g ref="char:EOLhyphen"/>mediately bleſſed with the Society of the bleſſed Angels; ye are come to an innumerable company of Angels, and how ſweet and comfortable, how pleaſing and taking their Society is; the Saints in Heaven can only tell us; but doubtleſs, it is very love<g ref="char:EOLhyphen"/>ly and amiable: they being all creatures of ſuch a noble Ex<g ref="char:EOLhyphen"/>tract, and of ſuch an Heavenly make as they are.</p>
+            <p n="2">2. They ſhall then be bleſſed, as with the Society of the Bleſſed Angels; ſo with the Society of the Spirits of juſt Men made perfect, as the Apoſtle tells us in the place fore-quoted; &amp; this tends not a little to the making up of their Happineſs. The
+<pb n="16" facs="tcp:100473:11"/> of God are Excellent perſons even whiles they are here upon Earth. <hi>The righteous</hi> ſaith <hi>Solomon is more Excellent than his Neighbour,</hi> Prov. 12.26. <hi>And my delight</hi> ſaith <hi>David is in the Saints, thoſe Excellent ones upon Earth,</hi> Pſ. 16.3. Their company even in this life is very taking and pleaſing; notwithſtanding, that by reaſon of that Body of Death, which they carry about with them here; they are even loaded with many imperfections, which may and do breed ſometimes real grounds of diſtaſte to thoſe that converſe with them. But O how excellent are they in Heaven! How pleaſant and taking will their company be there when they ſhall be disburdened of all theſe; when they ſhall be made perfect, as then they will be! And ſhall all joyn together with one heart and with one voice, <hi>to Offer up Everlaſt<g ref="char:EOLhyphen"/>ing Halelujahs to God, and to the Lamb that hath re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>emed them;</hi> as we are told, they ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and will, <hi>Revel.</hi> 19.1, 2, 3, 4. But then,</p>
+            <p n="3">3. And laſtly (which is ſtill more than all this) <hi>the Dead that die in the Lord</hi> are immediately after their death, though not com<g ref="char:EOLhyphen"/>pleatly, yet truly bleſſed, becauſe they then ſhall be bleſſed with the blisful fruition of God and Chriſt; they ſhall come then <hi>as to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirits of juſt Men made perfect, ſo to God t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e judge of all, and to J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus the Mediator of the new Covenant,</hi> as the Apoſtle aſſureth us, in that place ſo often mentioned, <hi>Heb.</hi> 12.22, 23, 24. Ac<g ref="char:EOLhyphen"/>cording alſo to that of our Saviour, to the penitent Thief, <hi>Luke</hi> 23.43. <hi>This day ſhalt thou be with me in Paradiſe.</hi> And that of the Apoſtle (to mention now no more <hi>in the fifth Chapter of the ſecond Epiſtle to the Corinthians from the firſt to the tenth ver.</hi> Yea, they ſhall be bleſſed then, with a clearer, more immediate and never-more to be interrupted enjoyment of them.</p>
+            <p n="1">1. They ſhall then be bleſſed with a clearer and more imme<g ref="char:EOLhyphen"/>diate enjoyment of them; here they ſee God at beſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Apoſtle phrazeth it, 1 <hi>Cor.</hi> 13.12. Through a Glaſs, as it were in a riddle, (as the Original primarily imports,) darkly as our Tranſlators have rendred it; but then we ſhall ſee him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>face to face. Now they know him but in part, but then they ſhall know him even as they are known.</hi> They ſhall ſee him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>as he is;</hi> as <hi>St. John</hi> phrazeth it, 1 <hi>Joh.</hi> 3, 2. Here the Saints enjoy God indeed, but 'tis darkly and mediately, through the conduits and ciſterns of his Ordinances. They are in
+<pb n="17" facs="tcp:100473:11"/> a ſtate of imperfection, and ſo do need the aſſiſtance of his Ordi<g ref="char:EOLhyphen"/>nances to help them to a ſight of God. But <hi>when that which is perfect is come,</hi> as it will be in good meaſure (as you have heard) to them that die in the Lord; then <hi>that which is thus in part ſhall be done away,</hi> as the Apoſtle tells us; 1 <hi>Cor.</hi> 13.10. <hi>The Sun ſhall no more be our light then by day, nor the Moon our light by night, but the Lord God himſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf ſhall be our Everlaſting light and our glory,</hi> as the Prophet prazeth it, <hi>Iſa.</hi> 60.19. And as they ſhall then be bleſſed with a clearer and more immediate enjoyment of God and Chriſt. So,</p>
+            <p n="2">2. With an uninterrupted Enjoyment of them, <hi>Whilſt we are preſent in the body</hi> (ſaith the Apoſtle) <hi>we are a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſent from the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd.</hi> We are ſo be ſure many times; we enjoy him but by ſits and ſtarts, we meet with many Interruptions in our Enjoy<g ref="char:EOLhyphen"/>ments of him. Now we have him, and anon we loſe him; ſometimes we meet with him at an Ordinance, and at another time we are forced to go away without him; <hi>ſuavis hora bre<g ref="char:EOLhyphen"/>vis mora,</hi> (as one of the Fathers ſaith,) <hi>a ſweet Hour indeed it is, but 'tis uſually, but a ſhort one;</hi> but then we ſhall enjoy him without any Interruption or Ceſſation at all. <hi>We ſhall ever be with the Lord,</hi> (as the Apoſtle tells us) 1 Theſ. 4.17. <hi>His tabernacle ſhall then be indeed placed amongſt his people, and he will remove it no more.</hi> According to his Promiſe, Rev. 21.7. <hi>They ſhall be before the throne of God and ſerve him day and night in his temple, and he that ſitteth on the throne ſhall dwell amongſt them; they ſhall hun<g ref="char:EOLhyphen"/>ger no more, neither thirſt any more, neither ſhall the Sun light on them, nor any heat, for the Lamb which is in the midſt of the throne ſhall feed them, and ſhall lead them unto living fountains of waters;</hi> as St. <hi>John</hi> aſſureth us, <hi>Rev.</hi> 7.15, 16, 17. Now, <hi>Si mediata &amp; momentanea Dei viſio tantum potuit apportare laetitiae cumulum, quantum potuit immediata &amp; aeterna,</hi> ſaith one: If thoſe Beams of Comfort which are reflected upon good Men here, by getting now and then a glimpſe of God's Countenance in this vale of Tears, do ſo refreſh and revive their Hearts, as they do, What will their Joy be, when the Lord himſelf ſhall be their conſtant Sun and everlaſting Light? If it be ſo good to draw nigh unto God upon Earth, as the Pſalmiſt tells us, it is, <hi>Pſal.</hi> 73. <hi>&amp;c.</hi> if they are ſo bleſſed, <hi>that watch at Wiſdom's Gates, and wait at the Poſts of her Doors;</hi> as <hi>Solomon</hi> tells us <hi>they are;</hi> How
+<pb n="18" facs="tcp:100473:12"/> good will it be then to draw near unto God in Heaven? And how bleſſed are they that wait not at the Door, but dwell in that Houſe, and that for ever? And yet ſo ſhall all ſuch as die in the Lord do, and therefore they muſt needs be very bleſſed: But ſo much ſhall ſerve for the Explication and Confirmation of of what is aſſerted in my Text. I come now to apply it, or to inſerr from it. And ſo,</p>
+            <p n="1">1. Are the dead that die in the Lord thenceforth bleſſed; then certainly there is another Life beſides this; and the Souls of Men do not die with their Bodies, whatever the Atheiſt phanſieth to the contrary; for, <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n entis nulla ſunt praedicata, nullae ſunt af<g ref="char:EOLhyphen"/>fectiones; nothing can be predicated or ſaid of that which is not:</hi> But the Souls of the dead that die in the Lord are ſaid to be thenceforth bleſſed, and therefore they muſt have a Being ſtill, and there muſt be another Life beſides this, where they are ſo bleſſed.</p>
+            <p n="2">2. Then this too lets us ſee the great Difference betwixt the Righteous and the Wicked, betwixt good Men and bad in this other Life; for the one are not ſo happy, but the other then will be as miſerable. 'Tis true, indeed, in this Life many times (which is too by the way a good Argument of a future Eſtate.) <hi>All things come alike to all men; there is one event to the righteous and to the wicked; to the clean and to the unclean; to him that ſacrificeth, and to him that ſacrificeth not,</hi> as <hi>Solomon</hi> tells us, <hi>Eccleſ.</hi> 9.2. Yea, ſo are the Affairs of this Life ordered many times, though they all lie under the diſpoſe of a Divine Provi<g ref="char:EOLhyphen"/>dence; as that it often happens better to the Wicked than to the Righteous here, at leaſt in outward Reſpects; there is ſaith <hi>Solomon, A juſt man that periſh th in his righteouſneſs, and there is a wicked man that prolongeth his days in his wickedn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs,</hi> Eccleſ. 7.15. Juſt <hi>Abel</hi> is ſlain whilſt unrighteous <hi>Cain</hi> lives and builds Cities; profane <hi>Eſau</hi> ſtays at home and takes his Pleaſure, whilſt pious <hi>Jacob</hi> is forced to ſeek his Fortune, and to endure much hardſhip in a Foreign Land; <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bal,</hi> a Man of <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lial,</hi> Feaſts it like a King, whilſt <hi>David</hi> a Man after God's own Heart is in great wants and ſtraits. <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves,</hi> the rich Fool, riots it and fairs deliciouſly every Day, whilſt poor <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rus,</hi> the beloved of our Lord, would have been glad of the Crumbs that fell from his Table. Yea, our Saviour himſelf, <hi>that Holy and Juſt one, who did no ſin, neither was there any guile ſound at any
+<pb n="19" facs="tcp:100473:12"/> time in his mouth,</hi> is accuſed, condemned and crucified, whilſt <hi>Burrabbas,</hi> a notorious Murderer, is ſpared, releaſed and ſet at Liberty: In ſhort, ſo are the Affairs of this Life ordered many times, as that the Unrighteous and Wicked ſeem here often<g ref="char:EOLhyphen"/>times ſo happy (as one obſerves) as if they were rewarded for their Impiety; and the Righteous and Religious often ſo miſerable, as if they were puniſhed for their Innocency; but it will be much otherwiſe in the Life to come; then, indeed, <hi>ſhall men return and diſcern betwixt the righteous and the wicked, be<g ref="char:EOLhyphen"/>twixt them that have ſerved God, and them that have ſerved him not,</hi> as the Prophet tells us, <hi>Mal.</hi> 3.18. <hi>Son remember,</hi> ſaith <hi>A<g ref="char:EOLhyphen"/>braham</hi> to <hi>Dives, that thou receiv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt thy good things in thy life-time, and Lazarus evil things; but now thou art tormented, and he is comforted,</hi> Luke 16.25. Look (in ſhort, as to this uſe) what Difference there is betwixt Bliſs and Miſery, betwixt Heaven and Hell, betwixt being Eternally Bleſſed in the one, and Eter<g ref="char:EOLhyphen"/>nally Miſerable in the other; that Difference there will be be<g ref="char:EOLhyphen"/>twixt the Wicked and the Righteous in the other Life. For <hi>the wicked ſhall go away into everlaſting puniſhment, and the righ<g ref="char:EOLhyphen"/>teous into life eternal,</hi> as our Saviour aſſureth us, <hi>Mat.</hi> 25.46. Great therefore will be the Difference betwixt them.</p>
+            <p n="3">3. Are the dead that die in the Lord ſo bleſſed, then who would not with <hi>Balaam</hi> die the Death of the Righteous? Yea, Who would not live their Life, that they might die their Death? Who would not live to Chriſt now, that they might die in Chriſt hereafter? Bear his Croſs in this World, that they might wear his Crown in the other? Suffer him by his Spirit and Grace to reign in their Hearts and Lives here, that they might reign with him in Glory for ever hereafter? Methinks, if there were nothing elſe in a Godly Life, but the great Happineſs which (you have heard) will attend thoſe that live it after their Death; though there is much, very much beſides. Yet, I ſay, if there were nothing elſe but this, every one that hath but the Face of a Man, the leaſt Spark of humane Reaſon left in him, ſhould be in Love with it, ſhould heartily and ſolemnly devote himſelf to it, and that preſently too without any further delays or put-offs, as not knowing how ſuddenly Death may arreſt us, nor how ſoon it may be our turn to die, and we can never
+<pb n="20" facs="tcp:100473:13"/> die in the Lord and ſo be happy after Death, unleſs we firſt live in him and to his Glory. Look, ſaith <hi>Cornelius A Lapide,</hi> upon my Text, <hi>as he can't be ſaid to die at</hi> Rome <hi>that never lived at</hi> Rome, <hi>ſo he can't be ſaid to die in the Lord that never lived in or to the Lord;</hi> and therefore if thou deſigneſt or de<g ref="char:EOLhyphen"/>ſireſt to die in the Lord, and ſo to be happy after Death (as thou muſt do, if thou beeſt but ſtill a Man, and wilt give thy ſelf leave to conſider,) I ſay if thou deſigneſt or deſireſt this, be perſuaded immediately without any further delays to become a good Man, to devote thy ſelf heartily to the Service of Chriſt, and to live to his Honour and Praiſe.</p>
+            <p n="4">4. Are the dead that die in the Lord ſo Bleſſed? Do they thenceforth reſt from their Labours? And will their Works fol<g ref="char:EOLhyphen"/>low them? Then this may be for Comfort to all good Men. And that,</p>
+            <p n="1">1. Under and againſt all their preſent Trials and Troubles, their preſent labours and ſufferings; death will e're long come, and when it comes, it will put a period to them all You ſhall reſt ſhortly from all your labours and ſorrows; and your works, <hi>i. e.</hi> the reward of your good works, will follow: You have but a ſtep or two more to take, <hi>A ſtile or two more <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> as the Martyr ſaid, <hi>and you will be in Heaven at y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſently;</hi> and therefore you have great reaſon to bear <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our preſent labours and troubles with great patience and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul<g ref="char:EOLhyphen"/>neſs. For how great and how ſharp ſoever they may be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey will be but ſhort: The longeſt life we live here (you know) is but ſhort; <hi>Man that is born of a w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man is but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ys,</hi> as <hi>Job</hi> tells us, <hi>Job</hi> 14.1. <hi>And few a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l have bee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ys of the pilgrimage of my life,</hi> ſaid <hi>Jacob,</hi> Gen. 47.9. though he had lived then many more days than any liv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Life f Man is but a po<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t,</hi> ſaith P<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>arch, yea, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt quod vivimus &amp; adhuc puncto minus,</hi> ſaith Se<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>; <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs than a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, if any thing can be ſo;</hi> at leaſt in reſpect of that Eternity, which is to enſue. Our labours and troubles therefore will not, cannot, laſt long; for this l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e will not laſt long: and 'tis only whiles we live here, that we ſhall be expoſed to them; Death will ſet us at reſt, free us for ever from them: and beſides, all thoſe troubles of ours
+<pb n="21" facs="tcp:100473:13"/> (if we be good men) <hi>which are but thus for a moment,</hi> as the Apo<g ref="char:EOLhyphen"/>ſtle phrazeth it, 2 <hi>Cor.</hi> 4.16. (For no more in deed if compared with Eternity) will not only in the end, <hi>work together in the general for our good,</hi> according to that of the Apoſtle, <hi>Rom.</hi> 8.28. <hi>We know that all things ſhall work together for good to them that love God:</hi> But if born aright by us, they will work for us, as he tells us, 2 <hi>Cor.</hi> 4.17. read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, where the Apoſtle makes uſe of ſuch Rheto<g ref="char:EOLhyphen"/>rick as is ſcarce to be parallell'd, as is ſcarce to be met with in any human Authors; an <hi>Hyperbole</hi> upon <hi>Hyperbole,</hi> an <hi>exceed<g ref="char:EOLhyphen"/>ing, an exceeding eternal weight of Glory; whiles we look not</hi> (ſaith he) <hi>at the things which are ſeen, but at the things which are not ſeen; for the things which are ſeen are temporal,</hi> (and ſo be ſure will the good mans troubles only be) <hi>but the things which are not ſeen are eternal:</hi> So will his reward be, if he bears them as he ought to do; <hi>ver.</hi> 18. <hi>For we know,</hi> ſaith he, in the firſt Verſe of the following Chapter, <hi>that if our earthly Houſe of this Tabernacle were diſſolved,</hi> as it will be when death comes, and that will come, as you have heard, ſhortly, <hi>we have a building of God, an Houſe not made with hands, eternal in the Heavens:</hi> And this amongſt other Conſidera<g ref="char:EOLhyphen"/>tions ſupported them, and kept them from fainting (as well it might) under all their troubles and afflictions, as he tells us, 2 <hi>Cor.</hi> 4.16. But then,</p>
+            <p n="2">2. This may comfort good men too, as againſt all the trou<g ref="char:EOLhyphen"/>bles of this life, ſo againſt the fears of death: Why ſhould you be afraid of that which will make you happy, which will bring you to your reſt, and to the end of all your labours and ſorrows, as you have heard your dying will do? 'Tis true indeed, I grant, that death to nature is terrible, and to wicked men; to ſuch as are ſtill in their natural condition, it is, as the Philoſopher ſtiles it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ter<g ref="char:EOLhyphen"/>ribleſt of terribles, <hi>even the king of terrors,</hi> as <hi>Job</hi> terms it, <hi>Job</hi> 18.14. that which will bereave them of all their good things, and expoſe them to all evil; the very <hi>porta Gehenna,</hi> as one ſtiles it, <hi>that which uſhers in into Hell:</hi> The Devils ſurly Sergeant (as another calls death with reference to the wicked) ſent forth on purpoſe to drag them thither. Hell followeth im<g ref="char:EOLhyphen"/>mediately,
+<pb n="22" facs="tcp:100473:14"/> as we read <hi>Revel.</hi> 16.8. the pale Horſe on which death rides, with reference to wicked men; and therefore ſuch have reaſon, great reaſon, to fear it: But to good men it is the <hi>introitus Regni, their entrance into the Kingdom of Hea<g ref="char:EOLhyphen"/>ven;</hi> an out-let to all their miſery, an in-let to all bliſs, the very harbinger and fore-runner of their glory, a boat ſent on purpoſe to fetch them off, from the troubleſome ſea of this world, and to land them ſafe at the pleaſant harbour of eter<g ref="char:EOLhyphen"/>nal reſt; their Fathers Meſſenger ſent to fetch them home to their Fathers Houſe: And ſhould not ſuch an Harbinger, ſuch a Boat, ſuch a Meſſenger be welcome when he comes? Their dying day is their great reſting day, the day wherein they ſhall reſt from all their labours, (as you have heard) and was ever any wearied labourer unwilling to go to his reſt? 'Tis their great pay-day, the day wherein they ſhall receive their full wages, their reward for all that they have done and ſuf<g ref="char:EOLhyphen"/>fered here in the fleſh; And what Servant is there that is not well-pleaſed when the pay-day comes? The Servant earneſtly deſires the ſhadow, as <hi>Job</hi> tells us, and the Hireling longs for the wages of his work, <hi>Job</hi> 7.2. good men have no reaſon to be troubled, but indeed to rejoyce when the day of their death comes; for then they will find, that they ſhall not only reſt from their labours, but that their works will follow them; that they ſhall then receive their wages; wages infinitely beyond all their work, beyond all that they can think or conceive; For <hi>eye hath not ſeen, nor ear heard, neither ever yet did it enter into the heart of man, to conceive what great things God hath prepared for them that love him;</hi> as the Apoſtle aſſures us in that place ſo often quoted, 1 <hi>Cor.</hi> 2<g ref="char:punc">▪</g> 9.</p>
+            <p n="3">3. And Laſtly, It may comfort us as againſt our own death, if we be good men; ſo againſt the death of our godly friends: They are bleſſed, they do reſt from their labours, and their works do follow them. Their death is their great gain; and if it be ſo much their gain, why ſhould it be ſo much our grief? I know indeed, and we read in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scriptures, that great mournings, ſore lamentations have been made at the in<g ref="char:EOLhyphen"/>terment of many deceaſed Saints: And if ever any People had reaſon to make them, we of this place have ſo now; and yet we muſt not over-do here neither, as we ſoon may;
+<pb n="23" facs="tcp:100473:14"/> we muſt be careful that we do not ſorrow as th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e that h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e no hopes, as the Apoſtle adviſeth us in this Caſe, 1 <hi>Theſ.</hi> 4.13. weep we may, that will ſpeak us to be men, but yet it muſt be with moderation, and that will ſpeak us to be Chriſtians. Our pious Friends have only left us for a little time, we have not loſt them, but ſhall receive them again, or rather be received to them at the laſt: They are the Gainers, though we are the Loſers; their death is but a departure to a better life, and therefore it would be rather a piece of Envy in us, than of real Piety, exceſſively or over-much to bewail it, eſpecially ſince we are ſo well aſſured to meet them again in a better World, where we ſhall never part more, but ſhall be toge<g ref="char:EOLhyphen"/>ther with them, <hi>forever with the Lord,</hi> as the Apoſtle doth aſſure us we ſhall, 1 <hi>Theſ.</hi> 4.17. And therefore we that ſur<g ref="char:EOLhyphen"/>vive may as well comfort one another with thoſe Words, as he in this Caſe alſo adviſeth us there to do.</p>
+            <p>Theſe things might have been (ſome of them at leaſt) more enlarged upon, but I have treſpaſſed (I fear) too much already upon your patience; and yet I muſt borrow a little time more from it, if it be only to tell you in a few words, what kind of Perſon he was, which we have brought here now to be interred. And now I have mentioned this worthy Gentleman, I have ſtar<g ref="char:EOLhyphen"/>ted as it were another. Text, and might well give you another Sermon upon it, if I had time and ability for it. I never indeed took any great delight in making long Panegyricks or large En<g ref="char:EOLhyphen"/>comiums of the dead: For not to mention the frequent abuſe of them, I have ever thought that ſilent tears are the beſt Oratours at Funerals; and that the good works which the deceaſed have done whiles they were living, and the good names which they have left behind them, when dead, are their beſt embalmings; and do ſpeak out their praiſes more effectually than the tongue of the Preacher could do: And in this reſpect I ſhould not have needed to have ſaid any thing now; for this worthy Gentleman hath obtained a good repent amongſt us: And his own works will praiſe him more in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, than any of my words can do; yet leaſt I ſhould ſeem to be injurious both to him and to you at once<g ref="char:punc">▪</g> to Him, in denying him his due and deſerved praiſe; and to You, in concealing ſo Excellent a Pattern for you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ation; I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt ſay ſomething of him, and the Brief Character which I
+<pb n="24" facs="tcp:100473:15"/> ſhall give of him; ſhall be chiefly in ſuch things, as mine own knowledge <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the great Honour that I do and ſhall ever bare to his Name; do both warrant and prompt me to give: And ſo,</p>
+            <p n="1">1 To begin with ſuch things as relate to Gods Service and Worſhip (a due regard to which doth be ſure as much commend us, as any thing we can ſhew regard unto) he was a great lover of his Church, of Gods Houſe and publick Wor<g ref="char:EOLhyphen"/>ſhip; Did conſtantly attend when at home, unleſs when he was hindred by great Sickneſs, and that both Morning and Eve<g ref="char:EOLhyphen"/>ning, upon the Prayers and other Ordinances here diſpenſed: And ſeemed always moſt a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tentive to, reverent and devout in all. Yea, ſuch was his zeal always to attend here upon Gods publick Worſhip, as that he came very often to it, when in the Judgment of others, it had been fitter for him by reaſon of his great illneſs and weakneſs to have been at home in his Bed. He ſeemed always to be greatly offended and angry with his Friends; when they knowing his weakneſs did at any time but deſire him to ſtay at home. Neither was he only thus diligent to come himſelf, but careful to bring his Family and Servants alſo along with him; as reſolving with good <hi>Joſhua,</hi> that what ever others did, that he and his Houſhould would ſerve the Lord.</p>
+            <p>He was likewiſe a moſt diligent and devout receiver of the Lords Supper (an Ordinate God knows is too much ſlighted. and neglected by too too many:) I do not remember that for the ſpace of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 years and more in which I have had the Happineſs to be acquainted with him, that ever he miſſed when at home above 2<g ref="char:punc">▪</g> or 3. Sacraments, and them ſore againſt his will, being forced to it by reaſon of great Sickneſs or Weakneſs.</p>
+            <p>Neither was be only thus careful to Worſhip God, thus publickly every week here in his Houſe; But likewiſe took care to have him: Worſhipped dayly in his own, by keeping up a conſtant courſe of Family-Duties there, ever ſince I knew him; which is a thing I am afraid too too much neglected by too too many, not only of the Vulgar, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Men of his rank and quality.</p>
+            <pb n="25" facs="tcp:100473:15"/>
+            <p>Neither did he reſt in this; but it was his uſual courſe (as I have been well informed) to retire Morning and Evening (not<g ref="char:EOLhyphen"/>withſtanding that croud of buſineſs which he had Generally upon his Hands) to his Cloſet or Study, for his private Devotions: as firmly believing, what our Saviour ſaith, that ſuch as Pray in ſecret ſhall be rewarded openly. And as he was thus careful and diligent in the firſt place to ſerve God, in a Religious way; So was he alſo,</p>
+            <p n="2">2. To ſerve his King and Country in a Civil way. He was indeed a Gentleman that hated Idleneſs, and loved Buſineſs; and ſeemed to delight in nothing more, than how he might be uſeful and ſerviceable to God in his Generation. Look as God had well fitted him for publick imployment, ſo he delighted in it; And would Ordinarily Balk no pains nor charges to promote the publick good, and to ſerve his Countrey. Wit<g ref="char:EOLhyphen"/>neſs the great Expences, the many tedious and dangerous Journeys, which he made for many Years together to that end; thoſe eſpecially which he made to <hi>Braintree,</hi> to quiet the peo<g ref="char:EOLhyphen"/>ple and to provide for the Poor there; When that Town was ſo ſorely viſited with the Sickneſs, and when few or no other Juſtices durſt venture themſelves amongſt them.</p>
+            <p>He was a Gentleman, that it may be, hath been as uſeful and as ſerviceable to this Hundred, yea, indeed to the whole County, ever ſince he was Juſtice of the Peace; Which is nigh now 30. Years ago; as moſt in it, and poſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly may be as much miſſed: This Pariſh I am ſure, and the Neighbouring Pa<g ref="char:EOLhyphen"/>riſhes; Yea, the whole Diviſion, who always had free and eaſie acceſs to him for Juſtice, &amp; for adviſe in all dubious caſes, will much miſs him; As alſo will the Poor round about us, for his daily Dole and Charity. He was a ſound Proteſtant, and had more than an Ordinary Zeal againſt Popery, and for the refor<g ref="char:EOLhyphen"/>med Religion, and did much pitty thoſe that ſuffered for it. Witneſs his Charity to, and moſt kind reception of worthy <hi>Mr. Schamiere, one of the French perſecuted Miniſters, into his Houſe:</hi> Who I am confident too might have been with him to this very day, had not God by Death took him to a better place; He was a Gentleman that did much and often bewail the many dif<g ref="char:EOLhyphen"/>ferences and diviſions that are amongſt us, eſpecially in the
+<pb n="26" facs="tcp:100473:16"/> Church, and though he were himſelfe a true Church-Man; Yet he had a great deal of Candour and Chriſtian Charity for all that differed from him; ſo be they did but live well, and carried them<g ref="char:EOLhyphen"/>ſelves Honeſtly and Peaceably.</p>
+            <p>He was one too, that had a great ſenſe of the Worth of Learning, and of the great neceſſity of the good Education of Youth; and therefore was reſolved (as he told me often this Summer, if God ſpared his life) to repair our School, and had lately purchaſed Lands to the value of 16 <hi>l. per Annum,</hi> (to which I believe he would have added more too if he had lived) to endow it with, for the incouragement of a Maſter; which I hope his Worthy Executors, and Relations will ſee performed: And though the Poor not only of this place, but of all places round about us, did continually partake of his great Bounty and Charity whiles he lived, yet was he not unmindful of them when he dyed; but gave in his Will, not only Legacies to the Poor of this Pariſh, but alſo to the Poor of two other of the Neighbouring Pariſhes; beſides that con<g ref="char:EOLhyphen"/>ſiderable Dole which was given by his Executors to all the Poor that came to his Funeral.</p>
+            <p>In ſhort, he was, I am very confident, a very good Man as to the main; a great Hater of all Vice and Immorality, a true Lover of all Vertue and Goodneſs, an Underſtanding Magiſtrate, a Faithful Counſellor, a Loyal Subject, a True Friend, a Loving Husband, a Kind Maſter, a Merciful Land<g ref="char:EOLhyphen"/>lord; and in a word, all I hope, a very Sound and Serious Chriſtian.</p>
+            <p>It pleaſed God indeed for theſe two years laſt paſt, to vi<g ref="char:EOLhyphen"/>ſit him with much ſickneſs and weakneſs; but he gave him withal, much Patience and Submiſſiveneſs of Spirit: I never heard that there fell any word from his lips, that did bewray the leaſt diſcontent or impatience, but his mouth was full of ſubmiſſive and Heavenly Expreſſions, under his greateſt Pains and Agonies; yea, when his Pains and Weakneſſes were very great, (as they were lateward, and his Strength ſmall) yet he ſeemed to bear all with ſuch Patience and Courage, with ſuch Calmneſs and Evenneſs of Spirit, as if he had not much wiſhed to be in any other Condition than what he was in. His uſual Expreſſion, when his Pains or Sickneſs were greater
+<pb n="27" facs="tcp:100473:16"/> than ordinary, (as ſometimes they were) <hi>That this was but one Chop more to the Tree that muſt down, and that he never expected to be well again in this World, but that he hoped he ſhould be ſo in the next.</hi> 'Tis true indeed, when he went off, he went off ſuddenly; but it was no more, than what we in reaſon, conſidering his great and long Weakneſs, might well expect; and what he, I hope, was for a long time, as to the main, well prepared for. The only Thing which I ſhall further Remark upon, and which I think is worthy our Ob<g ref="char:EOLhyphen"/>ſervance, is this, That it pleaſed God to take him to him<g ref="char:EOLhyphen"/>ſelf, and ſo to his reſt, upon the Sabbath or Lords-day, which you know is a Type of our Reſt in HEAVEN, and ought to be a Day of Reſt from all Worldly Labours to us here, and this too God did, I think, within leſs than two hours, after he had been publickly ſerving and worſhipping God here in his Houſe, which was too the place and work he always ſeemed to take greateſt Delight in, and where we ſhall be ſure much to miſs him: For we ſhall never, Sirs, have the happineſs to keep another Sabbath, or to worſhip God with him any more here on Earth; I pray God we may in Hea<g ref="char:EOLhyphen"/>ven, where I truſt he is now gone to keep an everlaſting Sabbath with God, with his Saviour, with the Holy Angels, and with the Souls of all Juſt Men made perfect, and where he will be at reſt from all thoſe painful Labours, which he did with us, and for us, whilſt on Earth, and find his Works, that is the good Fruits and bleſſed Reward of them, eter<g ref="char:EOLhyphen"/>nally following him in Heaven. The good Lord grant, that we may be all ſo inſtructed by his Death, as timely to lay to heart our own, and ſeriouſly to prepare our ſelves for it; that ſo when we come to dye, (as God only knows how ſoon and how ſudden it may be) we may dye in the Lord, as I truſt he did, and reſt from our Labours, and be bleſſed and happy after we are dead, as I believe he is; <hi>For bleſſed are the dead, that dye in the Lord, henceforth; yea, ſaith the Spirit, that they may reſt from their Labours and their Works follow them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:100473:17" rendition="simple:additions"/>
+            <head>Books Printed for, and are to be ſold by <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns in Cheapſide,</hi> near <hi>Mercers</hi> Chappel.</head>
+            <p>
+               <hi>CONVIVI<g ref="char:V">Ʋ</g>M COELESTE.</hi> A plain and familiar Diſcourſe concerning the Lord's Supper: Shewing at once the Nature of that Sacrament; as alſo the right way of prepa<g ref="char:EOLhyphen"/>ring our ſelves for the receiving of it. In which are alſo conſi<g ref="char:EOLhyphen"/>dered, thoſe Exceptions which Men uſually bring to excuſe their not partaking of it.</p>
+            <p>Charity directed: Or the way to give Alms to the greateſt Ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>A Sermon Preached before the King and Queen, at <hi>White-Hall,</hi> the Fifth of <hi>November.</hi> 1692. All three by <hi>Richard</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <p>A Treatiſe of Knowledge and Love compared; In two Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: Firſt. <hi>Of falſly pretended Knowledge<g ref="char:punc">▪</g>
+               </hi> Secondly. <hi>Of true Sa<g ref="char:EOLhyphen"/>ving Knowledge and Love.</hi> 1. Againſt haſty Judging, and Falſe Conceits of Knowledge, and for neceſſary Suſpenſion. 2. The Excellency of Divine Love, and the Happineſs of being Known and Loved of God. Written as greatly needful to the Safety and Peace of every Chriſtian, and of the Church. The only cer<g ref="char:EOLhyphen"/>tain way to eſcape falſe Religions, Hereſies, Sects, and Malignant Prejudices, Perſecutions and Sinful Wars: All cauſed by falſly pretended Knowledge, and haſty Judging, by Proud Ignorant Men, who know not their Ignorance. By <hi>Richard Baxter;</hi> Who by God's Bleſſing on long and hard Studies, hath learned to know that he knoweth but little, and to ſuſpend his Judgment of Uncertainties, and to take great neceſſary certain things, for the food of his Faith, and Comforts, and the Meaſure of his Church-Communion.</p>
+            <p>Advice to an only Child: Or, Excellent Councel to all young Perſons. Containing the Summ and Subſtance of Expe<g ref="char:EOLhyphen"/>rimental and Practical Divinity: Written by an Eminent and Judicious Divine, for the Private Uſe of an only Child, now made Publick for the Benefit of all.</p>
+            <p>The Confirming Work of Religion: Or, Its Great Things made plain, by their Primary Evidences and Demonſtrations. Whereby the meaneſt in the Church, may ſoon be made able to render a Solid and Rational <hi>Account</hi> of their Faith. Written by <hi>R. Fleming,</hi> Author of the Fulfilling of the Sciptures. Now Publiſhed by <hi>Daniel Burgeſs.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
